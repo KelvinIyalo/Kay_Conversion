@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kay Conversion</string>
+
+    <string-array name="currency_codes">
+        <item >USD</item>
+        <item>AED</item>
+        <item>EUR</item>
+        <item>NGN</item>
+        <item>AMD</item>
+        <item>ANG</item>
+        <item>JPY</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>AWG</item>
+        <item>AZN</item>
+        <item>BAM</item>
+        <item>BBD</item>
+        <item>BDT</item>
+        <item>BGN</item>
+        <item >BHD</item>
+        <item >BTC</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
